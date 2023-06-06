@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-I'm a full stack software engineer specialized in frontend and backend development for complex scalable web applications. I write about software development on [BIT-acora](https://nicolasbracigliano.com). Want to know how I more about me? Check out my [about me](https://nicolasbracigliano.com/index.php/about-me/) page.
+I am a passionate Senior Software Engineer with over 15 years of experience in the ever-evolving tech industry. I write about software development on [BIT-acora](https://nicolasbracigliano.com).
 
-## 👨‍💻 Programming languages and tools: 
+Want to know how I more about me? Check out my [about me](https://nicolasbracigliano.com/index.php/about-me/) page.
+
+## ⚡ Fun facts
+
+- 🛟 In the summer, I volunteer as a Lifesaver
+- 🍫 I love sweets
+- ☕️ I can have an espresso before bed and sleep like a baby
+- 🎵 I'm a music lover
+
+## 👨‍💻 Programming languages and tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
@@ -17,17 +26,14 @@ I'm a full stack software engineer specialized in frontend and backend developme
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
 </p>
 
-## ⚡ Fun facts: 
-- 🛟 In the summer, I volunteer as a Lifesaver
-- 🍫 I love sweets
-- ☕️ I can have an espresso before bed and sleep like a baby
-- 🎵 I'm a music lover
+## 📊 Stats
+
+![nicolas-E1](https://github-readme-stats.vercel.app/api?username=nicolas-E1&theme=dracula&show_icons=true&count_private=true&hide_rank=true)
 
 ## 📫 Get in touch
+
 - Linktree - [nicolas.bracigliano](https://linktr.ee/nicolas.bracigliano)
 - LinkedIn - [Nicolas Bracigliano](https://au.linkedin.com/in/nicolasbracigliano)
 - Blog/Website - [nicolasbracigliano.com](https://nicolasbracigliano.com)
 
 or send an email to: me@nicolasbracigliano.com
-
-![nicolas-E1](https://github-readme-stats.vercel.app/api?username=nicolas-E1&show_icons=true)
