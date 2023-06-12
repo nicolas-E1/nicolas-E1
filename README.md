@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a passionate Senior Software Engineer with over 15 years of experience in the ever-evolving tech industry. I write about software development on [BIT-acora](https://nicolasbracigliano.com).
+I am a passionate Senior Software Engineer with over 15 years of experience in the ever-evolving tech industry. I write about software development on [BIT-acora](https://nicolasbracigliano.com/bit-acora/).
 
-Want to know how I more about me? Check out my [about me](https://nicolasbracigliano.com/index.php/about-me/) page.
+Want to know how I more about me? Check out my [about me](https://nicolasbracigliano.com/about/) page.
 
 ## ⚡ Fun facts
 
@@ -32,8 +32,9 @@ Want to know how I more about me? Check out my [about me](https://nicolasbracigl
 
 ## 📫 Get in touch
 
-- Linktree - [nicolas.bracigliano](https://linktr.ee/nicolas.bracigliano)
-- LinkedIn - [Nicolas Bracigliano](https://au.linkedin.com/in/nicolasbracigliano)
-- Blog/Website - [nicolasbracigliano.com](https://nicolasbracigliano.com)
+- Linktree -> [nicolas.bracigliano](https://linktr.ee/nicolas.bracigliano)
+- LinkedIn -> [Nicolas Bracigliano](https://au.linkedin.com/in/nicolasbracigliano)
+- Website -> [NB](https://nicolasbracigliano.com)
+- Blog -> [BIT-acora](https://nicolasbracigliano.com/bit-acora/)
 
 or send an email to: me@nicolasbracigliano.com
