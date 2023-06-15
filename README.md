@@ -2,7 +2,7 @@
 
 I am a passionate Senior Software Engineer with over 15 years of experience in the ever-evolving tech industry. I write about software development on [BIT-acora](https://nicolasbracigliano.com/bit-acora/).
 
-Want to know how I more about me? Check out my [about me](https://nicolasbracigliano.com/about/) page.
+Want to know how more about me? Check out my [about me](https://nicolasbracigliano.com/about/) page.
 
 ## ⚡ Fun facts
 
@@ -14,6 +14,7 @@ Want to know how I more about me? Check out my [about me](https://nicolasbracigl
 ## 👨‍💻 Programming languages and tools
 
 <p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40"/>
@@ -26,9 +27,11 @@ Want to know how I more about me? Check out my [about me](https://nicolasbracigl
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
 </p>
 
+<!---
 ## 📊 Stats
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-E1&theme=dracula&layout=compact)
 ![nicolas-E1](https://github-readme-stats.vercel.app/api?username=nicolas-E1&theme=dracula&show_icons=true&count_private=true&hide_rank=true)
+--->
 
 ## 📫 Get in touch
 
