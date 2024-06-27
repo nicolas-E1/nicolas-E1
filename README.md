@@ -10,10 +10,10 @@ Want to know how more about me? Check out my [about me](https://nicolasbraciglia
 
 ## ⚡ Fun facts
 
-- 🛟 In the summer, I volunteer as a Lifesaver
-- 🍫 I love sweets
-- ☕️ I can have an espresso before bed and sleep like a baby
-- 🎵 I'm a music lover
+- 🛟 In the summer, I trade my keyboard for a whistle and become a Lifesaver—because who needs code when you can save lives?
+- 🍫 I’m basically a human-sized candy jar. Sweets are my kryptonite.
+- ☕️ I can have an espresso before bed and still sleep like a baby. Caffeine fears me.
+- 🎵 I’m such a music lover that even my code has a soundtrack.
 
 ## 👨‍💻 Programming languages and tools
 
